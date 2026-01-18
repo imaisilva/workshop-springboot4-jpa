@@ -30,6 +30,9 @@ public class User implements Serializable {
 		this.phone = phone;
 		this.password = password;
 	}
+	
+	public User() {
+    }
 
 	public Long getId() {
 		return id;
