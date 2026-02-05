@@ -1,4 +1,4 @@
-package com.portfolio.api.services.exception;
+package com.portfolio.api.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
